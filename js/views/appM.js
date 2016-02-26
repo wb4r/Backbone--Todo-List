@@ -1,10 +1,5 @@
 
 
-// AppView will handle the creation of new todos and rendering of the initial
-// todo list.
-
-
-
 var app = app || {};
 
 

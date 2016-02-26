@@ -1,6 +1,6 @@
-Copy of TodoMVC.com, with Addy Osmani.
+Version of TodoMVC.com, with Addy Osmani.
 
-Let’s consider the application’s architecture at a high level. We’ll need:
+We’ll need:
 
     - a Todo MODEL to describe individual todo items
     - a TodoList COLLECTION to store and persist todos
